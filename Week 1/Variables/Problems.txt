@@ -1,0 +1,12 @@
+Practice Exercises
+
+#Variables and Numbers:
+
+1)Declare a variable called radius with a value of 5.
+2)Calculate the area of a circle using the formula area = π * radius^2 (use π = 3.14).
+
+#Strings:
+
+1)Create a variable called message with the value "Welcome to Python programming!".
+2)Extract the word "Python" using slicing and print it.
+3)Convert the entire message to uppercase and print it.

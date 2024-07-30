@@ -1,0 +1,17 @@
+Lists:
+Create a list called shopping_list with the items "milk," "bread," and "eggs."
+Add "butter" to the end of the list.
+Remove "bread" from the list and print the updated list.
+
+Dictionaries:
+Create a dictionary called book with keys "title," "author," and "year."
+Update the "year" to 2021.
+Add a new key "genre" with the value "Fiction."
+
+Sets:
+Create a set of unique numbers from a list [1, 2, 2, 3, 4, 4, 5].
+Find the union of this set with another set {4, 5, 6, 7}.
+
+Tuples:
+Create a tuple called person_info with the values "John," 25, and "Developer."
+Unpack the tuple into variables and print them.
