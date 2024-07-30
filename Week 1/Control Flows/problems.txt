@@ -1,0 +1,11 @@
+If Conditions:
+Write a program that checks if a number is positive, negative, or zero and prints an appropriate message.
+Modify the program to also check if the number is even or odd.
+
+For Loops:
+Create a list of numbers and write a loop to calculate the sum of the numbers.
+Write a loop to print the multiplication table of a given number.
+
+Combining If Conditions and Loops:
+Write a program that prints all prime numbers between 1 and 20.
+Create a list of strings and write a loop to find the longest string in the list.
