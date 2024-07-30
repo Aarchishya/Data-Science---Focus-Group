@@ -1,0 +1,10 @@
+Regular Functions:
+Write a function is_even that takes a number as input and returns True if the number is even, otherwise False.
+Create a function factorial that calculates the factorial of a given number.
+
+Lambda Functions:
+Use a lambda function to create a list of the squares of the numbers from 1 to 10.
+Write a lambda function to filter out all the words in a list that are shorter than 4 characters.
+
+Combining Regular and Lambda Functions:
+Create a function apply_operation that takes two numbers and a function as arguments and returns the result of applying the function to the numbers. Test it with both regular and lambda functions.
